@@ -1,0 +1,32 @@
+{
+  "author": "Christian Glahn <phish108@mobinaut.io>",
+  "name": "ldaptor",
+  "version": "0.1.0",
+  "description": "Easier Integration of LDAP Directories into Node projects",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "",
+    "test": "mocha"
+  },
+  "keywords": [
+    "ldap",
+    "identity"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+   "ldapjs": "^1.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "co-mocha": "^1.1.2",
+    "eslint": "^3.0.0",
+    "eslint-plugin-babel": "^4.1.1",
+    "mocha": "^3.0.0"
+  },
+  "repository": "phish108/node-ldaptor"
+}
