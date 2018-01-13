@@ -2,7 +2,7 @@
   "author": "Christian Glahn <phish108@mobinaut.io>",
   "name": "ldaptor",
   "version": "0.1.0",
-  "description": "Easier Integration of LDAP Directories into Node projects",
+  "description": "Easier Integration of LDAP Directories into Node Projects",
   "main": "lib/index.js",
   "scripts": {
     "start": "",
